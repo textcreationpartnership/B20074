@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation requiring some of His Majesties subjects in the parts beyond the seas, to return into England.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20074</idno><idno type="EEBO-CITATION">99884458_192507</idno>
+  <idno type="VID">192507</idno>
+  <idno type="EEBO-PROQUEST">2248521318</idno>
+  
+            <idno type="STC">Wing C3566</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[29]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[36b]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[199]</idno>
+            <idno type="STC">ESTC R214941</idno>
+            <idno type="PROQUEST">ocm99884458</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884458e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192507)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[29]; C9:3[172]; C18:1[198])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation requiring some of His Majesties subjects in the parts beyond the seas, to return into England.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at Our Court at Whitehall, the One and twentieth day of April, 1666. God save the King.".</note>
+                  <note>Requires a number of people attainted of high treason to surrender.</note>
+                  <note>Arms 66; Steele notation: Dolman, the 2) the that.</note>
+                  <note>Copy at reel C18:1[198] consists of one contiguous sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192507:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <byline>By the King.</byline>
+            <head>A PROCLAMATION Requiring some of His Majesties Subjects in the parts beyond the Seas, to return into <hi>England.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of the late Session of Parliament, Intituled, <hi>An Act for Attainting <hi>Thomas Dolman, Joseph Bampfield,</hi> and <hi>Thomas Scott</hi> of High Treason, if they render not themselves by a day;</hi> It is (amongst other things therein contained) Enacted, That all and every person and persons who then were, or then after should be beyond the Seas, and whom His Majesty by any of His Royal Procla<g ref="char:EOLhyphen"/>mations to be issued under the Great Seal of <hi>England,</hi> during the continuance of this War with the States of the <hi>United Provinces,</hi> should name and require to return into <hi>England,</hi> and render themselves by a certain day therein to be mentioned, to some or one of His Majesties Iustices of the Peace for the County wherein he or they should first arive, and should not return and render themselves accordingly, and abide their Legal Tryal, should from and after the day to them to be prefixed by such Pro<g ref="char:EOLhyphen"/>clamation, stand and be Attainted of High Treason, to all intents and purposes, and should suffer such pains and Penalties, and undergo such Forfeitures as persons Attainted of High Treason ought to do. And whereas <hi>John Desbrough,</hi> commonly called Colonel <hi>Desbrough, Thomas Kelsey, John White, John Grove, William Burton, William Scott</hi> son of <hi>Thomas Scott,</hi> lately Attainted and Executed for Execrable High Treason, Sir <hi>Robert Honywood</hi> junior, <hi>Thomas Cole</hi> of <hi>Southampton, <gap reason="illegible: omitted in print" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spurway, Edward Radden,</hi> Dr. <hi>Edward Richardson, John Phelps,</hi> and <hi>John Nicholas</hi> of <hi>Mon<g ref="char:EOLhyphen"/>mouthshire,</hi> being His Majesties Subjects, have withdrawn themselves, and are at present (the said War continu<g ref="char:EOLhyphen"/>ing) in parts beyond the Seas, without any reasonable cause for Merchandise or otherwise, and some of them con<g ref="char:EOLhyphen"/>trary to all Bonds, both of their Duty and Allegiance to the King their Soveraign, and affection to their native Countrey, have Treasonably engaged themselves in <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctual Service in the said War; and the abode of all and every of them in Foreign parts is dangerous, and against the Publick safety of His Majesty and His Realm: Therefore the Kings most Excellent Majesty, with the Advice of His Privy Council, and in pursuance of the said Act of Parlia<g ref="char:EOLhyphen"/>ment, by this His Proclamation under the Great Seal of <hi>England,</hi> doth name and require them the said <hi>John Des<g ref="char:EOLhyphen"/>brough, Thomas Kelsey, John White, John Grove, William Burton, William Scott,</hi> Sir <hi>Robert Honywood</hi> junior, <hi>Thomas Cole</hi> of <hi>Southampton, <gap reason="illegible: omitted in print" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spurway, Edward Radden,</hi> Dr. <hi>Edward Richardson, John Phelps,</hi> and <hi>John Nicholas</hi> of <hi>Monmouth<g ref="char:EOLhyphen"/>shire,</hi> and every of them, by the Two and twentieth day of <hi>July</hi> next coming, being Three Kalendar moneths and more from the date of this Proclamation, to return into <hi>England,</hi> and render themselves to some or one of His Maje<g ref="char:EOLhyphen"/>sties Iustices of the Peace for the County wherein he or they shall first arive; His Majesty hereby Declaring, That they and every of them who shall not return and render themselves accordingly, and abide their Legal Tryal, from and after the said Two and twentieth of <hi>July,</hi> to them prefixed by this Proclamation as aforesaid, by force of the said Act of Parliament, will stand and be Attainted of High Treason, and undergo the Forfeitures of persons Attainted of High Treason: Whereof they and every of them are to take notice at their perils. And His Majesty doth here<g ref="char:EOLhyphen"/>by Command and Require the Iustices of Peace to whom any of the said persons shall render themselves, to keep them in safe Custody, and advertise His Majesty, or one of His Principal Secretaries of State thereof, that further Order and Directions may be therein given.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi>
+                  <date>the One and twentieth day of <hi>April,</hi> 1666.</date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
